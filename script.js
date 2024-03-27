@@ -1,5 +1,3 @@
-const searchConsole = document.getElementById("search_console");
-
 window.SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
 let recognition = new SpeechRecognition();
 
